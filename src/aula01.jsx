@@ -6,6 +6,7 @@ class Aula01 extends Component {
         return(
             <View style={ styles.container}>
                 <Text>Estrutura Padrão</Text>
+                <Text>Estrutura Padrão</Text>
             </View>
         )
     }
